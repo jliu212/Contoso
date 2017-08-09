@@ -11,7 +11,7 @@ namespace Contoso.Controllers
         // GET: Admin
         public ActionResult Index()
         {
-            return View();
+            //return View();
         }
 
         // GET: Admin/Details/5
